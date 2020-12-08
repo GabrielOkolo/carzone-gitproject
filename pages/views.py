@@ -61,6 +61,3 @@ def contact(request):
         return redirect('contact')
 
     return render(request, 'pages/contact.html')
-
-def contact(request):
-    return render(request, 'pages/contact.html')
