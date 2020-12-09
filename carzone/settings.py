@@ -161,8 +161,8 @@ SITE_ID = 2
 # Email sending
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'gabrianoprince95@gmail.com'
-EMAIL_HOST_PASSWORD = ''
+EMAIL_HOST_USER = 'desknetcustomerservice@gmail.com'
+EMAIL_HOST_PASSWORD = 'Iluebe95'
 EMAIL_USE_TLS = True
 
 
