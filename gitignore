@@ -146,7 +146,7 @@ dmypy.json
 # pytype static type analyzer
 .pytype/
 
-/media
+
 
 # profiling data
 .prof
