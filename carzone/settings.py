@@ -161,8 +161,8 @@ SITE_ID = 2
 # Email sending
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'desknetcustomerservice@gmail.com'
-EMAIL_HOST_PASSWORD = 'Iluebe95'
+EMAIL_HOST_USER = 'gabrianoofilms@gmail.com'
+EMAIL_HOST_PASSWORD = 'djangopython'
 EMAIL_USE_TLS = True
 
 

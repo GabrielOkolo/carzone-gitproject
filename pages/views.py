@@ -53,7 +53,7 @@ def contact(request):
         send_mail(
                 email_subject,
                 message_body,
-                'desknetcustomerservice@gmail.com',
+                'gabrianoofilms@gmail.com',
                 [admin_email],
                 fail_silently=False,
             )
