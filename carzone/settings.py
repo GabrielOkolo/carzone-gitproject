@@ -27,7 +27,7 @@ SECRET_KEY = ')3g!n2x45)ksdm6jwr2lm7mds_$1+xgp$6^izypci@m%ra0@g4'
 #DEBUG = True
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://'protected-headland-06499.herokuapp.com', '', '']
 
 LOGIN_REDIRECT_URL = 'dashboard'
 
